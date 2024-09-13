@@ -1,0 +1,10 @@
+customer_id,total_transaction_amount,average_transaction_amount,city
+101,250.75,250.75,Stockholm
+102,150.0,150.0,Gothenburg
+105,350.0,350.0,Gothenburg
+107,500.0,500.0,Stockholm
+108,120.25,120.25,Gothenburg
+109,75.5,75.5,Malmo
+111,60.0,60.0,Gothenburg
+112,400.0,400.0,Malmo
+114,85.25,85.25,Stockholm

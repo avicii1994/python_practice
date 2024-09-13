@@ -1,0 +1,32 @@
+[
+    {
+        "product_id": "P1001",
+        "category": "electronics",
+        "price": 499.99,
+        "availability": 15
+    },
+    {
+        "product_id": "P1003",
+        "category": "electronics",
+        "price": 799.5,
+        "availability": 10
+    },
+    {
+        "product_id": "P1005",
+        "category": "clothing",
+        "price": 19.99,
+        "availability": 5
+    },
+    {
+        "product_id": "P1007",
+        "category": "books",
+        "price": 15.0,
+        "availability": 25
+    },
+    {
+        "product_id": "P1010",
+        "category": "furniture",
+        "price": 700.0,
+        "availability": 8
+    }
+]

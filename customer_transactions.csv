@@ -1,0 +1,15 @@
+customer_id,transaction_amount,transaction_date,customer_age,city
+101,250.75,2023-01-15,35,Stockholm
+102,150.00,2023-01-16,28,Gothenburg
+103,99.99,2023-01-17,,Malmo
+104,200.50,2023-01-18,42,Stockholm
+105,350.00,2023-01-19,31,Gothenburg
+106,180.75,2023-01-20,,Malmo
+107,500.00,2023-01-21,29,Stockholm
+108,120.25,2023-01-22,38,Gothenburg
+109,75.50,2023-01-23,26,Malmo
+110,320.00,2023-01-24,45,Stockholm
+111,60.00,2023-01-25,34,Gothenburg
+112,400.00,2023-01-26,37,Malmo
+113,175.00,2023-01-27,,Gothenburg
+114,85.25,2023-01-28,30,Stockholm
